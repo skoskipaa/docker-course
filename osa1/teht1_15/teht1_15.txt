@@ -1,0 +1,27 @@
+
+Dockerfile:
+
+FROM python:3.5
+WORKDIR /app
+RUN apt-get update && apt-get install -y sqlite3
+COPY Katselulista .
+RUN pip install -r requirements.txt
+EXPOSE 5000
+CMD python ./run.py
+
+docker build -t lista .
+docker run -it -p 5000:5000 lista
+
+
+
+Link to project GitHub-page:
+https://github.com/skoskipaa/watchlist-app-for-docker-course
+
+Docker:
+https://hub.docker.com/repository/docker/skoskipaa/watchlist
+
+
+To pull and run on Docker:
+
+docker pull skoskipaa/watchlist
+docker run -it -p 5000:5000 skoskipaa/watchlist

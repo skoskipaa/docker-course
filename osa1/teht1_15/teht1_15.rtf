@@ -5,10 +5,8 @@
 \paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf2 \CocoaLigature0 docker build -t lista .\
-docker run -it -p 5000:5000 lista\
-\
-(muutos alkuper\'e4iseen run.py-filuun host=\'910.0.0.0\'92)\
+\f0\fs24 \cf2 \CocoaLigature0 \
+Dockerfile:\
 \
 FROM python:3.5\
 WORKDIR /app\
@@ -18,15 +16,19 @@ RUN pip install -r requirements.txt\
 EXPOSE 5000\
 CMD python ./run.py\
 \
+docker build -t lista .\
+docker run -it -p 5000:5000 lista\
 \
 \
-linkki github-repoon, jossa README:\
 \
+Link to project GitHub-page:\
 https://github.com/skoskipaa/watchlist-app-for-docker-course\
 \
 Docker:\
-\
 https://hub.docker.com/repository/docker/skoskipaa/watchlist\
 \
+\
+To pull and run on Docker:\
+\
 docker pull skoskipaa/watchlist\
-docker run\'85}
+docker run -it -p 5000:5000 skoskipaa/watchlist}

@@ -1,0 +1,28 @@
+Commands:
+
+docker build -t curler .
+docker run -it curler
+
+
+
+script.sh:
+
+#!/bin/bash
+
+apt-get update
+apt-get install -y curl
+
+echo "Input website:"
+read website
+echo "Searching..."
+sleep 1
+curl http://$website
+
+
+
+Dockerfile:
+
+FROM ubuntu:16.04
+COPY script.sh .
+RUN chmod +x ./script.sh
+CMD ./script.sh

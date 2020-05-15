@@ -1,0 +1,14 @@
+touch logs.txt
+docker build -t back-exerc .
+docker run -it -v $(pwd)/logs.txt:/backend/logs.txt -p 8000:8000 back-exerc
+
+
+
+Dockerfile:
+
+FROM node:latest
+WORKDIR /backend
+COPY backend-example-docker .
+RUN npm install
+EXPOSE 8000
+ENTRYPOINT npm start

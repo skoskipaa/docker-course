@@ -1,0 +1,24 @@
+Dockerfile front: (1_10)
+
+FROM node:latest
+WORKDIR /front
+COPY frontend-example-docker .
+RUN npm install
+ENV API_URL=http://localhost:8000
+EXPOSE 5000
+ENTRYPOINT npm start
+
+docker run -it -p 5000:5000 front-exerc
+
+
+Dockerfile back: (1_11)
+
+FROM node:latest
+WORKDIR /backend
+COPY backend-example-docker .
+RUN npm install
+ENV FRONT_URL=http://localhost:5000
+EXPOSE 8000
+ENTRYPOINT npm start
+
+docker run -it -v $(pwd)/logs.txt:/backend/logs.txt -p 8000:8000 back-exerc
