@@ -1,1 +1,33 @@
-DevOps with Docker
+## DevOps with Docker
+### Part 1
+
+[1](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_1.png)    
+[2](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_2.png)    
+[3](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_3.txt)    
+[4](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_4.txt)    
+[5](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_5.txt)    
+[6](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_6/teht1_6.txt)
+    [Dockerfile](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_6/Dockerfile)    
+[7](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_7/teht1_7.txt)
+    [Dockerfile](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_7/Dockerfile)
+    [script](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_7/script.sh)    
+[8](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_8.txt)        
+[9](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_9.txt)    
+[10](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_10/teht1_10.txt)
+    [Dockerfile](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_10/Dockerfile)    
+[11](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_11/teht1_11.txt)
+    [Dockerfile](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_11/Dockerfile)    
+[12](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_12/teht1_12.txt)
+    [Dockerfile/back](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_12/Dockerfile.back)
+    [Dockerfile/front](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_12/Dockerfile.front)    
+[13](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_13/teht1_13.txt)
+    [Dockerfile](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_13/Dockerfile)    
+[14](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_14/teht1_14.txt)
+    [Dockerfile](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_14/Dockerfile)    
+[15](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_15/teht1_15.txt)
+    [Docker hub](https://hub.docker.com/repository/docker/skoskipaa/watchlist)
+    [GitHub](https://github.com/skoskipaa/watchlist-app-for-docker-course)    
+[16](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_16.txt)
+    [Heroku](https://my-first-docker.herokuapp.com)
+
+
