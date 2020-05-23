@@ -1,0 +1,6 @@
+Dockerfile.front:
+Removed the environmental variable API_URL -> defaults to /api that nginx works with
+
+Dockerfile.back:
+Remove the environmental variable API_URL -> no more cross-origin requests
+

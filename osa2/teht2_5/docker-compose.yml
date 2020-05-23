@@ -1,0 +1,13 @@
+version: '3.5'
+
+services:
+    backend:
+      image: back-exerc
+      ports:
+        - 8000:8000
+      environment:
+        - REDIS=database
+
+    database:
+      image: redis
+
