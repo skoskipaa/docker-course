@@ -29,5 +29,16 @@
     [GitHub](https://github.com/skoskipaa/watchlist-app-for-docker-course)    
 [16](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_16.txt)
     [Heroku](https://my-first-docker.herokuapp.com)
+    
+### Part 2
 
-
+[1](https://github.com/skoskipaa/docker-course/blob/master/osa2/teht2_1/docker-compose.yml)
+[2](https://github.com/skoskipaa/docker-course/blob/master/osa2/teht2_2/docker-compose.yml)
+[3](https://github.com/skoskipaa/docker-course/blob/master/osa2/teht2_3/docker-compose.yml)
+[4](https://github.com/skoskipaa/docker-course/blob/master/osa2/teht2_4.txt)
+[5](https://github.com/skoskipaa/docker-course/blob/master/osa2/teht2_5/docker-compose.yml)
+[6](https://github.com/skoskipaa/docker-course/blob/master/osa2/teht2_6/docker-compose.yml)
+[7](https://github.com/skoskipaa/docker-course/blob/master/osa2/teht2_7/docker-compose.yml)
+[8](https://github.com/skoskipaa/docker-course/tree/master/osa2/teht2_8)
+[9](https://github.com/skoskipaa/docker-course/blob/master/osa2/teht2_9/docker-compose.yml)
+[10](https://github.com/skoskipaa/docker-course/tree/master/osa2/teht2_10)
