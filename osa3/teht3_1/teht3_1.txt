@@ -1,0 +1,5 @@
+front:
+image 516 MB		———>	487 MB
+
+back:
+image 341 MB		———>	312 MB

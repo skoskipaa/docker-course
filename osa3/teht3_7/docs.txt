@@ -1,0 +1,5 @@
+3.7 Images for kurkkumopo-frontend
+
+Size before modifications (Dockerfile.original): 1.11 GB
+
+Size after modifications (Dockerfile): 97.5 MB

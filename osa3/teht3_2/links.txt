@@ -1,0 +1,5 @@
+config.yml file in repo::
+https://github.com/skoskipaa/watchlist-app-for-docker-course/blob/master/.circleci/config.yml
+
+app in heroku:
+https://circleci-exercise.herokuapp.com

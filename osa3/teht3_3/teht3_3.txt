@@ -1,0 +1,9 @@
+Run command:
+docker run -ti -v /var/run/docker.sock:/var/run/docker.sock <image> <git-repo> <docker-hub>
+
+
+Testing with watchlist-app:
+
+BUILD: docker build -t builder .
+RUN: docker run -ti -v /var/run/docker.sock:/var/run/docker.sock builder https://github.com/skoskipaa/watchlist-app-for-docker-course.git skoskipaa/buildservice
+
