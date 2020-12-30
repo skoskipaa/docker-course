@@ -1,5 +1,7 @@
-## DevOps with Docker
-### Part 1
+## DevOps with Docker 2020 course excercises
+Use folders for parts and exercises or the provided links below to navigate.
+
+### [Part 1](https://github.com/skoskipaa/docker-course/tree/master/osa1)
 
 [1](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_1.png)    
 [2](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_2.png)    
@@ -30,7 +32,7 @@
 [16](https://github.com/skoskipaa/docker-course/blob/master/osa1/teht1_16.txt)
     [Heroku](https://my-first-docker.herokuapp.com)
     
-### Part 2
+### [Part 2](https://github.com/skoskipaa/docker-course/tree/master/osa2)
 
 [1](https://github.com/skoskipaa/docker-course/blob/master/osa2/teht2_1/docker-compose.yml)
 [2](https://github.com/skoskipaa/docker-course/blob/master/osa2/teht2_2/docker-compose.yml)
@@ -42,3 +44,14 @@
 [8](https://github.com/skoskipaa/docker-course/tree/master/osa2/teht2_8)
 [9](https://github.com/skoskipaa/docker-course/blob/master/osa2/teht2_9/docker-compose.yml)
 [10](https://github.com/skoskipaa/docker-course/tree/master/osa2/teht2_10)
+
+### [Part 3](https://github.com/skoskipaa/docker-course/tree/master/osa3)
+
+[1](https://github.com/skoskipaa/docker-course/tree/master/osa3/teht3_1)
+[2](https://github.com/skoskipaa/docker-course/tree/master/osa3/teht3_2)
+[3](https://github.com/skoskipaa/docker-course/tree/master/osa3/teht3_3)
+[4](https://github.com/skoskipaa/docker-course/tree/master/osa3/teht3_4)
+[5](https://github.com/skoskipaa/docker-course/tree/master/osa3/teht3_5)
+[6](https://github.com/skoskipaa/docker-course/tree/master/osa3/teht3_6)
+[7](https://github.com/skoskipaa/docker-course/tree/master/osa3/teht3_7)
+[8](https://github.com/skoskipaa/docker-course/tree/master/osa3/teht3_8)
